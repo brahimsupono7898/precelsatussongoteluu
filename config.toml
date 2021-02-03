@@ -1,0 +1,4 @@
+baseURL = "https://acuratlxmode55.vercel.app"
+languageCode = "en-us"
+title = "Best Acura TLX 2021"
+theme = "hugo-theme-minos"
